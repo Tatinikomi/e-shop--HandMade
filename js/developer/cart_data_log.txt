@@ -1,0 +1,25 @@
+array (
+  1 => 
+  array (
+    'count' => '1',
+    'img' => 'https://opt-1238021.ssl.1c-bitrix-cdn.ru/upload/iblock/955/2dbaf05f-c6ef-11e4-98bf-001517a211ff_9dabf7de-cded-11e6-9454-001517a211ff.jpg?155299858135349',
+    'price' => '30',
+    'title' => 'Фоамиран зефирный',
+    'id' => '1',
+  ),
+  2 => 
+  array (
+    'count' => '1',
+    'img' => 'https://magok.ru/upload/resize_cache/pics/p-904/904856b93321-resized-640x640-1-588f.jpg',
+    'price' => '25',
+    'title' => 'Фоамиран 60*40',
+    'id' => '2',
+  ),
+)
+array (
+  'user_name' => 'Татьяна Михайлова',
+  'user_phone' => '89600678988',
+  'user_mail' => 'minico1017@mail.ru',
+  'user_address' => 'н',
+  'user_comment' => '',
+)
